@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "back",
+      "value": "返回"
+    },
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "描述"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "标签"
+    },
+    {
+      "name": "next",
+      "value": "下一个"
+    }
+  ]
+}
